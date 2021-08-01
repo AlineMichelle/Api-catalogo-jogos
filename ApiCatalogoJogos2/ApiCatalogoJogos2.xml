@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiCatalogoJogos2</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:ApiCatalogoJogos2.Controllers.V1.JogosController.Obter(System.Int32,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:ApiCatalogoJogos2.Controllers.V1.JogosController.Obter(System.Guid)" -->
+    </members>
+</doc>
